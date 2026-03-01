@@ -2,7 +2,7 @@
 
 Material de aula da disciplina **Tópicos de Big Data em Python**.
 
-**Professor:** Felipe Aves de Oliveira  
+**Professor:** Felipe Alves de Oliveira  
 **Instituição:** Faculdade Estácio de Sá
 
 ---
