@@ -1,4 +1,4 @@
-# Aula Python Big Data
+# Aula Tópicos de Big Data em Python
 
 Material de aula da disciplina **Tópicos de Big Data em Python**.
 
@@ -59,4 +59,4 @@ Consulte o arquivo [LICENSE](LICENSE) para o texto completo da licença.
 
 ---
 
-*Material didático — Tópicos de Big Data em Python | Faculdade Estácio de Sá*
+*Material didático — Tópicos de Big Data em Python | Faculdade Estácio de Sá | Prof. Felipe Alves*
