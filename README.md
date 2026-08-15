@@ -1,4 +1,4 @@
-# Aula Tópicos de Big Data em Python
+# Aula de Tópicos de Big Data em Python
 
 Material de aula da disciplina **Tópicos de Big Data em Python**.
 
